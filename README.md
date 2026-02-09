@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+nav_enabled: true
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
